@@ -12,7 +12,7 @@ We create real-time tools for monitoring, tracing, and evaluating LLM behavior �
 
 ## 🛡️ Our Mission
 
-To build foundational safety layers for the AI era — helping organizations deploy aligned, interpretable, and governable LLM systems.
+To build foundational safety layers for the AI era — helping organizations deploy aligned, interpretable, and governable LLM agents.
 
 ## 📫 Get in Touch
 
